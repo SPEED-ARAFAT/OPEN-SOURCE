@@ -1,6 +1,6 @@
 import os
 os.system("clear")
-print("DECOMPILE DONE AND FUCKED BY RAKIB'S FATHER MOHAMMAD ROCKY 🖕🖕");time.sleep(10)
+print("DECOMPILE DONE AND FUCKED BY RAKIB'S FATHER ARAFAT AHAMMAD 🖕🖕");time.sleep(10)
 
 #_____SC ADMIN [RAKIB-999]____#
 #____FB ID [MOHAMMAD RAKIB HASAN]___#
